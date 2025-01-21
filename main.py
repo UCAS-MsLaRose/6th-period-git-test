@@ -3,6 +3,7 @@
 
 
 def main():
-    pass
+    print("Welcome to my program. Please enter your name:\n")
+    name=input()
 
 main()
