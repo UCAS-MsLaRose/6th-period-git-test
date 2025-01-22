@@ -11,5 +11,8 @@ def num_generator():
 def main():
     print("Welcome to my program. Please enter your name:\n")
     name=input()
+    print(hello_world(name))
     print(num_generator())
+          
+          
 main()
